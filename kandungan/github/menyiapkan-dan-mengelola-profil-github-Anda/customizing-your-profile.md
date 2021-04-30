@@ -9,6 +9,5 @@ versions:
   enterprise-server: '*'
   github-ae: '*'
 topics:
-  - profiles
+  - profile: '*'
 ---
-
